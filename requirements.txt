@@ -1,0 +1,18 @@
+# Required Libraries for PyModbus Communication
+pymodbus==3.2.2    # Core Modbus library (supports both RTU & TCP)
+pyserial==3.5      # Required for Modbus RTU (Serial Communication)
+
+# GUI Support (Tkinter for Python GUI)
+# Note: Tkinter is built into Python (for Windows/macOS),
+# but on some Linux distros, you may need to install `python3-tk` manually.
+# Example for Ubuntu/Debian: sudo apt install python3-tk
+# No need to install via pip
+
+# Optional Dependencies (Uncomment if needed)
+# loguru==0.7.2     # For advanced logging and debugging
+# asyncio==3.4.3    # Required if using asynchronous Modbus communication
+# python-dotenv==1.0.1  # Load environment variables from .env file
+# pyyaml==6.0.1     # Support for YAML-based configuration
+
+# Install all dependencies using:
+# pip install -r requirements.txt
