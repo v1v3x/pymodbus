@@ -9,7 +9,6 @@ pyserial==3.5      # Required for Modbus RTU (Serial Communication)
 # No need to install via pip
 
 # Optional Dependencies (Uncomment if needed)
-# loguru==0.7.2     # For advanced logging and debugging
 # asyncio==3.4.3    # Required if using asynchronous Modbus communication
 # python-dotenv==1.0.1  # Load environment variables from .env file
 # pyyaml==6.0.1     # Support for YAML-based configuration
