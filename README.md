@@ -153,7 +153,3 @@ Contributions are welcome! Follow these steps to contribute:
 5. Open a **Pull Request (PR)** on GitHub  
 
 ---
-
-### **🔗 Connect with Me**  
-📧 **Email**: vivekrandad20@gmail.com
-🐦 **X**: https://x.com/vvkrandad
